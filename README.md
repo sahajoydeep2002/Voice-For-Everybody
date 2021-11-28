@@ -28,7 +28,7 @@ Project management
 Data!!!! Lack of data!
 
 ## Accomplishments that we're proud of
-Proud of pivoting my original idea and completing this epic hackathon. Also proud of making a useful tool
+Proud of pivoting my original idea and completing this epic hackathon. Also proud of making a useful tool & won a place in the Top 10 best performers in the Digital Education Hack South Asia 2021 and more
 
 ## What we learned
 Time management
